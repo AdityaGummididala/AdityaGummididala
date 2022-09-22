@@ -42,4 +42,7 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 ### 📺 Latest YouTube 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Break for my journey](https://ytcards.demolab.com/?id=Ffk6PFm-xlE&title=Break+for+my+journey&timestamp=1660658364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Break for my journey")](https://www.youtube.com/watch?v=Ffk6PFm-xlE)
+[![Day 1-7 of learning full stack Development and DS Algo](https://ytcards.demolab.com/?id=gVbigtY8eMQ&title=Day+1-7+of+learning+full+stack+Development+and+DS+Algo&timestamp=1660234068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day 1-7 of learning full stack Development and DS Algo")](https://www.youtube.com/watch?v=gVbigtY8eMQ)
+[![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
 <!-- END YOUTUBE-CARDS -->
