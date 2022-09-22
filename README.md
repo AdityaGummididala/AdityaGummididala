@@ -39,7 +39,7 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 
 #
 
-### 📺 Latest YouTube 
+### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Break for my journey](https://ytcards.demolab.com/?id=Ffk6PFm-xlE&title=Break+for+my+journey&timestamp=1660658364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Break for my journey")](https://www.youtube.com/watch?v=Ffk6PFm-xlE)
