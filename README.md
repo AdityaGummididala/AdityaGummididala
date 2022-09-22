@@ -46,3 +46,10 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 [![Day 1-7 of learning full stack Development and DS Algo](https://ytcards.demolab.com/?id=gVbigtY8eMQ&title=Day+1-7+of+learning+full+stack+Development+and+DS+Algo&timestamp=1660234068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day 1-7 of learning full stack Development and DS Algo")](https://www.youtube.com/watch?v=gVbigtY8eMQ)
 [![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
 <!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1)
+
+#
+
+### 🎓 Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaGummididala&show_icons=true&theme=gruvbox_light)
