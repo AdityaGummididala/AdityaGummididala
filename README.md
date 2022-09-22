@@ -2,7 +2,7 @@
 
 **`Tech Nerd (Developer/Creator)`**
 
-I'm a budding full-stack developer and content creator. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up. I talk about coding and everything related to development and tech on my Youtube Channel "[Aditya Gummididala][youtube]"
+I'm a budding full-stack developer and content creator. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up. I talk about coding and everything related to development and tech on my Youtube Channel "[Aditya Gummididala](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg)"
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1">
