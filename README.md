@@ -42,8 +42,8 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Break for my journey](https://ytcards.demolab.com/?id=Ffk6PFm-xlE&title=Break+for+my+journey&timestamp=1660658364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Break for my journey")](https://www.youtube.com/watch?v=Ffk6PFm-xlE)
-[![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
+[![Break for my journey](https://ytcards.vercel.app/?id=Ffk6PFm-xlE&title=Break+for+my+journey&timestamp=1660658364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Break for my journey")](https://www.youtube.com/watch?v=Ffk6PFm-xlE)
+[![My thoughts on dual booting linux and windows](https://ytcards.vercel.app/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1)
