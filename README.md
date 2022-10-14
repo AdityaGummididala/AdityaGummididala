@@ -42,7 +42,7 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
+[![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&lang=en&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1)
