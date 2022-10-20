@@ -37,6 +37,7 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Procrastination while learning to code](https://ytcards.demolab.com/?id=bwhCThPupmo&title=Procrastination+while+learning+to+code&lang=en&timestamp=1666288178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Procrastination while learning to code")](https://www.youtube.com/watch?v=bwhCThPupmo)
 [![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&lang=en&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
 <!-- END YOUTUBE-CARDS -->
 
