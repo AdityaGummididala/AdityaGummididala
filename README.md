@@ -37,6 +37,7 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Day 1 of learning Java and Full Stack Development](https://ytcards.demolab.com/?id=QGQhTfmtrPw&title=Day+1+of+learning+Java+and+Full+Stack+Development&lang=en&timestamp=1670493970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day 1 of learning Java and Full Stack Development")](https://www.youtube.com/watch?v=QGQhTfmtrPw)
 [![Semester 4 plans :)](https://ytcards.demolab.com/?id=3V4aRUtcoQY&title=Semester+4+plans+%3A%29&lang=en&timestamp=1670239794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Semester 4 plans :)")](https://www.youtube.com/watch?v=3V4aRUtcoQY)
 [![My Full Stack Developer Roadmap](https://ytcards.demolab.com/?id=OAwcv8hSHOI&title=My+Full+Stack+Developer+Roadmap&lang=en&timestamp=1666725245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My Full Stack Developer Roadmap")](https://www.youtube.com/watch?v=OAwcv8hSHOI)
 [![Day1-6 of learning Full Stack Development](https://ytcards.demolab.com/?id=wdvDFIauw-s&title=Day1-6+of+learning+Full+Stack+Development&lang=en&timestamp=1666724734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day1-6 of learning Full Stack Development")](https://www.youtube.com/watch?v=wdvDFIauw-s)
