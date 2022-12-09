@@ -37,12 +37,12 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![So I've tried Jio Cloud Gaming (beta)](https://ytcards.demolab.com/?id=8vsyCLZ1vr8&title=So+I%27ve+tried+Jio+Cloud+Gaming+%28beta%29&lang=en&timestamp=1670581009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "So I've tried Jio Cloud Gaming (beta)")](https://www.youtube.com/watch?v=8vsyCLZ1vr8)
 [![Day 1 of learning Java and Full Stack Development](https://ytcards.demolab.com/?id=QGQhTfmtrPw&title=Day+1+of+learning+Java+and+Full+Stack+Development&lang=en&timestamp=1670493970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day 1 of learning Java and Full Stack Development")](https://www.youtube.com/watch?v=QGQhTfmtrPw)
 [![Semester 4 plans :)](https://ytcards.demolab.com/?id=3V4aRUtcoQY&title=Semester+4+plans+%3A%29&lang=en&timestamp=1670239794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Semester 4 plans :)")](https://www.youtube.com/watch?v=3V4aRUtcoQY)
 [![My Full Stack Developer Roadmap](https://ytcards.demolab.com/?id=OAwcv8hSHOI&title=My+Full+Stack+Developer+Roadmap&lang=en&timestamp=1666725245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My Full Stack Developer Roadmap")](https://www.youtube.com/watch?v=OAwcv8hSHOI)
 [![Day1-6 of learning Full Stack Development](https://ytcards.demolab.com/?id=wdvDFIauw-s&title=Day1-6+of+learning+Full+Stack+Development&lang=en&timestamp=1666724734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day1-6 of learning Full Stack Development")](https://www.youtube.com/watch?v=wdvDFIauw-s)
 [![Procrastination while learning to code](https://ytcards.demolab.com/?id=bwhCThPupmo&title=Procrastination+while+learning+to+code&lang=en&timestamp=1666288178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Procrastination while learning to code")](https://www.youtube.com/watch?v=bwhCThPupmo)
-[![My thoughts on dual booting linux and windows](https://ytcards.demolab.com/?id=F7y7Lk7iE2M&title=My+thoughts+on+dual+booting+linux+and+windows&lang=en&timestamp=1658849002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My thoughts on dual booting linux and windows")](https://www.youtube.com/watch?v=F7y7Lk7iE2M)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1)
