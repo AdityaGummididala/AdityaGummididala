@@ -2,20 +2,9 @@
 
 **`Tech Nerd (Developer/Creator)`**
 
-I'm a budding full-stack developer and content creator. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up. I talk about coding and everything related to development and tech on my Youtube Channel "[Aditya Gummididala](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg)"
+I'm a budding full-stack developer and content creator. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up.
 
-<p align="left">
-      <a href="https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzhYMDkxp7fN8HSutUYhjTg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzhYMDkxp7fN8HSutUYhjTg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/AdityaGummididala?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AdityaGummididala?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/AdityaGummididala?tab=stars">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AdityaGummididala?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
 
----
 
 ### 🧰 Languages and Tools
 
@@ -36,16 +25,7 @@ I'm a budding full-stack developer and content creator. I love tech and I consta
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Day 2 of learning Java and Full Stack Development](https://ytcards.demolab.com/?id=dC2Zp0VoPUA&title=Day+2+of+learning+Java+and+Full+Stack+Development&lang=en&timestamp=1670607465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day 2 of learning Java and Full Stack Development")](https://www.youtube.com/watch?v=dC2Zp0VoPUA)
-[![So I've tried Jio Cloud Gaming (beta)](https://ytcards.demolab.com/?id=8vsyCLZ1vr8&title=So+I%27ve+tried+Jio+Cloud+Gaming+%28beta%29&lang=en&timestamp=1670581009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "So I've tried Jio Cloud Gaming (beta)")](https://www.youtube.com/watch?v=8vsyCLZ1vr8)
-[![Day 1 of learning Java and Full Stack Development](https://ytcards.demolab.com/?id=QGQhTfmtrPw&title=Day+1+of+learning+Java+and+Full+Stack+Development&lang=en&timestamp=1670493970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day 1 of learning Java and Full Stack Development")](https://www.youtube.com/watch?v=QGQhTfmtrPw)
-[![Semester 4 plans :)](https://ytcards.demolab.com/?id=3V4aRUtcoQY&title=Semester+4+plans+%3A%29&lang=en&timestamp=1670239794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Semester 4 plans :)")](https://www.youtube.com/watch?v=3V4aRUtcoQY)
-[![My Full Stack Developer Roadmap](https://ytcards.demolab.com/?id=OAwcv8hSHOI&title=My+Full+Stack+Developer+Roadmap&lang=en&timestamp=1666725245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My Full Stack Developer Roadmap")](https://www.youtube.com/watch?v=OAwcv8hSHOI)
-[![Day1-6 of learning Full Stack Development](https://ytcards.demolab.com/?id=wdvDFIauw-s&title=Day1-6+of+learning+Full+Stack+Development&lang=en&timestamp=1666724734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Day1-6 of learning Full Stack Development")](https://www.youtube.com/watch?v=wdvDFIauw-s)
-<!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCzhYMDkxp7fN8HSutUYhjTg?sub_confirmation=1)
 
 #
 
