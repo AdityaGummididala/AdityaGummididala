@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Aditya Gummididala
 
-**`Tech Nerd (Developer/Creator)`**
+**`Tech Nerd (Developer)`**
 
-I'm a budding full-stack developer and content creator. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up.
+I'm a budding full-stack developer. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up.
 
 
 
