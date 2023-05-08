@@ -25,8 +25,7 @@ I'm a budding Software developer. I love tech and I constantly keep myself updat
 
 #
 
-### 🎓 Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaGummididala&show_icons=true&theme=gruvbox_light)
+
 
 
 #
