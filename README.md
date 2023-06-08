@@ -17,18 +17,3 @@ I'm a budding Software developer. I love tech and I constantly keep myself updat
 <img align="left" alt="react.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <br />
-
-#
-
-
-
-
-#
-
-
-
-
-#
-
-
-   
