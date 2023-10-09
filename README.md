@@ -2,7 +2,7 @@
 
 **`Tech Nerd (Developer)`**
 
-I'm a budding Software developer. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned are built by myself from the ground up.
+I'm a budding Software developer. I love tech and I constantly keep myself updated on it, especially tech news related to computers, GPUs, etc. All of the coding projects mentioned were built by myself from the ground up.
 
 
 
@@ -16,4 +16,7 @@ I'm a budding Software developer. I love tech and I constantly keep myself updat
 <img align="left" alt="express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="react.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          " />
 <br />
