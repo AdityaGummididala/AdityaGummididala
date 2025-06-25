@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Aditya Gummididala
 
-**`Tech Nerd (Developer)`**
+**`Tech Nerd (Linux Administrator)`**
 
 I'm a linux administrator and aspiring Devops engineer.
 
