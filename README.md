@@ -2,7 +2,7 @@
 
 **`Tech Nerd (Linux Administrator)`**
 
-I'm a linux administrator and aspiring Devops engineer.
+I'm a Linux administrator and an aspiring DevOps engineer.
 
 ### 🧰 Languages and Tools
 
